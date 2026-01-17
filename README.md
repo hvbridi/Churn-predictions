@@ -5,7 +5,7 @@
 This project aims to predict the probability of clients of a telecom company to churn (cancel the service).
 ## Results
 The model has a **roc_auc_score** of 0.843 but further hyperparameter tuning and validation methods may be applied in the future.
-![Confusion Matrix](./confusion_matrix.png)
+![Confusion Matrix](./ConfusionMatrix.png)
 
 
 ## Methodology
